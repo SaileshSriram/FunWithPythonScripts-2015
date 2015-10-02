@@ -1,0 +1,350 @@
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  1
+Title -->Black Mass
+Genres --> Biography, Crime, Drama
+Runtime --> 122 mins.
+Rating -->7.8
+Image source -->http://ia.media-imdb.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  2
+Title -->Everest
+Genres --> Adventure, Biography, Drama, History, Thriller
+Runtime --> 121 mins.
+Rating -->7.4
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjMzMjIxOTIxMl5BMl5BanBnXkFtZTgwNTk4NDI0NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  3
+Title -->Maze Runner: The Scorch Trials
+Genres --> Action, Sci-Fi, Thriller
+Runtime --> 132 mins.
+Rating -->7.0
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjE3MDU2NzQyMl5BMl5BanBnXkFtZTgwMzQxMDQ3NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  4
+Title -->The Green Inferno
+Genres --> Adventure, Horror
+Runtime --> 100 mins.
+Rating -->5.8
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTE0MjgzMjk5MzdeQTJeQWpwZ15BbWU4MDM5OTM1MTYx._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  5
+Title -->Tomorrowland
+Genres --> Action, Adventure, Family, Mystery, Sci-Fi
+Runtime --> 130 mins.
+Rating -->6.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTQ0MDc5MjAyNF5BMl5BanBnXkFtZTgwMzU5Mzk1NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  6
+Title -->The Martian
+Genres --> Action, Adventure, Sci-Fi
+Runtime --> 141 mins.
+Rating -->8.5
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  7
+Title -->The Visit
+Genres --> Horror, Thriller
+Runtime --> 94 mins.
+Rating -->6.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  8
+Title -->Mad Max: Fury Road
+Genres --> Action, Adventure, Sci-Fi, Thriller
+Runtime --> 120 mins.
+Rating -->8.3
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTUyMTE0ODcxNF5BMl5BanBnXkFtZTgwODE4NDQzNTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  9
+Title -->Sicario
+Genres --> Action, Crime, Drama, Mystery, Thriller
+Runtime --> 121 mins.
+Rating -->8.0
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  10
+Title -->The Intern
+Genres --> Comedy
+Runtime --> 121 mins.
+Rating -->7.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  11
+Title -->Star Wars: Episode VII - The Force Awakens
+Genres --> Action, Adventure, Fantasy, Sci-Fi
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjAwMDQ1NDcxNV5BMl5BanBnXkFtZTgwOTA2MDY3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  12
+Title -->Avengers: Age of Ultron
+Genres --> Action, Adventure, Sci-Fi
+Runtime --> 141 mins.
+Rating -->7.7
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTU4MDU3NDQ5Ml5BMl5BanBnXkFtZTgwOTU5MDUxNTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  13
+Title -->Hotel Transylvania 2
+Genres --> Animation, Comedy, Family, Fantasy
+Runtime --> 89 mins.
+Rating -->7.3
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjEzNzc4NzEyMV5BMl5BanBnXkFtZTgwMTAxMDQ2NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  14
+Title -->Me and Earl and the Dying Girl
+Genres --> Comedy, Drama
+Runtime --> 105 mins.
+Rating -->8.0
+Image source -->http://ia.media-imdb.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  15
+Title -->Pan
+Genres --> Adventure, Family, Fantasy
+Runtime --> 111 mins.
+Rating -->6.1
+Image source -->http://ia.media-imdb.com/images/M/MV5BMzk2MDg5MDczMl5BMl5BanBnXkFtZTgwNTE2NjYyNjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  16
+Title -->Straight Outta Compton
+Genres --> Biography, Drama, Music
+Runtime --> 147 mins.
+Rating -->8.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTA5MzkyMzIxNjJeQTJeQWpwZ15BbWU4MDU0MDk0OTUx._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  17
+Title -->Pay the Ghost
+Genres --> Horror, Thriller
+Runtime --> 94 mins.
+Rating -->5.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BMzY3MTc3NzQ1Nl5BMl5BanBnXkFtZTgwNjk2MDE3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  18
+Title -->Vacation
+Genres --> Adventure, Comedy
+Runtime --> 99 mins.
+Rating -->6.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTUwNTM0ODMxM15BMl5BanBnXkFtZTgwNjM4Nzk4NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  19
+Title -->The Maze Runner
+Genres --> Action, Mystery, Sci-Fi, Thriller
+Runtime --> 113 mins.
+Rating -->6.8
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  20
+Title -->Cinderella
+Genres --> Drama, Family, Fantasy, Romance
+Runtime --> 105 mins.
+Rating -->7.1
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  21
+Title -->Legend
+Genres --> Biography, Crime, Thriller
+Runtime --> 131 mins.
+Rating -->7.5
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjE0MjkyODQ3NF5BMl5BanBnXkFtZTgwNDM1OTk1NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  22
+Title -->Mission: Impossible - Rogue Nation
+Genres --> Action, Adventure, Thriller
+Runtime --> 131 mins.
+Rating -->7.7
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTQ1NDI2MzU2MF5BMl5BanBnXkFtZTgwNTExNTU5NDE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  23
+Title -->Spectre
+Genres --> Action, Adventure, Thriller
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjM2Nzg4MzkwOF5BMl5BanBnXkFtZTgwNzA0OTE3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  24
+Title -->The Big Short
+Genres --> Drama
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjQwOTE0NDc4OF5BMl5BanBnXkFtZTgwMTI1NTc4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  25
+Title -->Point Break
+Genres --> Action, Crime, Thriller
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjIxNDkzOTAyNV5BMl5BanBnXkFtZTgwNjEyOTY3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  26
+Title -->Pitch Perfect 2
+Genres --> Comedy, Music
+Runtime --> 115 mins.
+Rating -->6.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTk0Mzg4NDYyOF5BMl5BanBnXkFtZTgwOTM2ODg2NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  27
+Title -->Southpaw
+Genres --> Action, Drama, Sport, Thriller
+Runtime --> 124 mins.
+Rating -->7.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjI1MTcwODk0MV5BMl5BanBnXkFtZTgwMTgwMDM5NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  28
+Title -->Pixels
+Genres --> Action, Comedy, Sci-Fi
+Runtime --> 106 mins.
+Rating -->5.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTYxMzM4NDY5N15BMl5BanBnXkFtZTgwNzg1NTI3MzE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  29
+Title -->Spy
+Genres --> Action, Comedy, Crime
+Runtime --> 119 mins.
+Rating -->7.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  30
+Title -->San Andreas
+Genres --> Action, Drama, Thriller
+Runtime --> 114 mins.
+Rating -->6.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BNjI4MTgyOTAxOV5BMl5BanBnXkFtZTgwMjQwOTA4NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  31
+Title -->Heist
+Genres --> Action, Thriller
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjEzNTkyMDE3NV5BMl5BanBnXkFtZTgwMTM2MDY4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  32
+Title -->Crimson Peak
+Genres --> Drama, Fantasy, Horror, Mystery, Romance, Thriller
+Runtime --> 119 mins.
+Rating -->8.7
+Image source -->http://ia.media-imdb.com/images/M/MV5BNTY2OTI5MjAyOV5BMl5BanBnXkFtZTgwNTkzMjQ0NDE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  33
+Title -->Furious Seven
+Genres --> Action, Crime, Thriller
+Runtime --> 137 mins.
+Rating -->7.4
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  34
+Title -->The Last Witch Hunter
+Genres --> Action, Adventure, Fantasy
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjM5Njk5MzYzM15BMl5BanBnXkFtZTgwNzM1Mjk4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  35
+Title -->Macbeth
+Genres --> Drama, War
+Runtime --> 113 mins.
+Rating -->7.8
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjA5NjgyMzY1NV5BMl5BanBnXkFtZTgwOTk3NTY2NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  36
+Title -->Interstellar
+Genres --> Adventure, Drama, Sci-Fi
+Runtime --> 169 mins.
+Rating -->8.7
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  37
+Title -->Shingeki no kyojin
+Genres --> Action, Adventure, Drama, Fantasy, Horror
+Runtime --> 90 mins.
+Rating -->5.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BNzQ1NjYwOTkyMF5BMl5BanBnXkFtZTgwNjk2NjE3NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  38
+Title -->The Hunger Games: Mockingjay - Part 2
+Genres --> Adventure, Sci-Fi, War
+Runtime --> Not given
+Rating -->Not given
+Image source -->http://ia.media-imdb.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  39
+Title -->Truth
+Genres --> Biography, Drama
+Runtime --> 121 mins.
+Rating -->5.5
+Image source -->http://ia.media-imdb.com/images/M/MV5BMzkxNjU2MzMzOF5BMl5BanBnXkFtZTgwOTA3Mjg4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  40
+Title -->Nasty Baby
+Genres --> Drama
+Runtime --> 100 mins.
+Rating -->5.9
+Image source -->http://ia.media-imdb.com/images/M/MV5BODM5MDUzNzk1MV5BMl5BanBnXkFtZTgwMDYzMzM4NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  41
+Title -->Cooties
+Genres --> Action, Comedy, Horror, Sci-Fi
+Runtime --> 88 mins.
+Rating -->5.9
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTA4MTM5NzExMjBeQTJeQWpwZ15BbWU4MDYyNTk1OTUx._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  42
+Title -->Inside Out
+Genres --> Animation, Adventure, Comedy, Drama, Family, Fantasy
+Runtime --> 94 mins.
+Rating -->8.5
+Image source -->http://ia.media-imdb.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  43
+Title -->Magic Mike XXL
+Genres --> Comedy, Drama, Music
+Runtime --> 115 mins.
+Rating -->5.9
+Image source -->http://ia.media-imdb.com/images/M/MV5BNDMyODU3ODk3Ml5BMl5BanBnXkFtZTgwNDc1ODkwNjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  44
+Title -->Jurassic World
+Genres --> Action, Adventure, Sci-Fi, Thriller
+Runtime --> 124 mins.
+Rating -->7.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTQ5MTE0MTk3Nl5BMl5BanBnXkFtZTgwMjczMzk2NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  45
+Title -->The Walk
+Genres --> Adventure, Biography, Drama, Thriller
+Runtime --> 123 mins.
+Rating -->8.3
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTU5MDgyNDgzM15BMl5BanBnXkFtZTgwNDA1MjI0NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  46
+Title -->Captive
+Genres --> Crime, Drama, Thriller
+Runtime --> 97 mins.
+Rating -->5.9
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjMwNzIyNTY5N15BMl5BanBnXkFtZTgwOTUyNDEwNjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  47
+Title -->Knock Knock
+Genres --> Thriller
+Runtime --> 99 mins.
+Rating -->6.1
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTY5NTkyMzM1Nl5BMl5BanBnXkFtZTgwODU3Njc2NjE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  48
+Title -->Terminator Genisys
+Genres --> Action, Adventure, Sci-Fi, Thriller
+Runtime --> 126 mins.
+Rating -->6.8
+Image source -->http://ia.media-imdb.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  49
+Title -->The Man from U.N.C.L.E.
+Genres --> Action, Adventure, Comedy
+Runtime --> 116 mins.
+Rating -->7.6
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTc2NjQ4ODYyNF5BMl5BanBnXkFtZTgwODA3OTU5NTE@._V1_SX214_AL_.jpg
+***************IMDB MOVIE LIST******************
+S.No of the movie -->  50
+Title -->Insidious: Chapter 3
+Genres --> Drama, Horror, Thriller
+Runtime --> 97 mins.
+Rating -->6.2
+Image source -->http://ia.media-imdb.com/images/M/MV5BMTUwNDU4NjE1N15BMl5BanBnXkFtZTgwOTc0MzA5NDE@._V1_SX214_AL_.jpg
